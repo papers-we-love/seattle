@@ -791,3 +791,12 @@ Link to slides: [<https://goo.gl/1dXMxt>](https://goo.gl/1dXMxt)
 
 Food (veg and gluten-free included) and drinks provided!
 
+## [2017-04-06 PWL #30: LKRhash](https://www.meetup.com/Papers-We-Love-Seattle/events/238400445/)
+The Main Event
+
+George Reilly presents [LKRhash](http://www.georgevreilly.com/content/LKRhash-for-SoftwarePE.pdf).
+
+LKRhash is a scalable hashtable. It scales to multiple processors and to
+millions of items. It was invented at Microsoft in the late 90s by Paul Larson,
+Murali Krishnan, and George Reilly. This talk is based on an unpublished paper
+that was submitted to Software: Practice & Experience.
