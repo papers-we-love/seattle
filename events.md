@@ -845,7 +845,7 @@ Here is the abstract to whet your appetite:
 > components that form a unified, but geographically and functionally diverse
 > entity. Examples include networked operating systems, Internet services, the
 > national telephone switching system, and in general all the technology using
-> todayâs diverse digital networks. Nevertheless, distributed systems
+> today's diverse digital networks. Nevertheless, distributed systems
 > remain difficult to design, build, and maintain, primarily because of the
 > lack of a clean, perspicuous interconnection model for the components.
 
