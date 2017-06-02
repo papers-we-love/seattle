@@ -800,3 +800,70 @@ LKRhash is a scalable hashtable. It scales to multiple processors and to
 millions of items. It was invented at Microsoft in the late 90s by Paul Larson,
 Murali Krishnan, and George Reilly. This talk is based on an unpublished paper
 that was submitted to Software: Practice & Experience.
+
+## [2017-05-04 PWL #31: Projectional Editors and Parsing with Derivatives](https://www.meetup.com/Papers-We-Love-Seattle/events/239026973/)
+To parse or not to parse: a two-for-one paper-loving showdown! 
+
+David Murray presents [Projecting a Modular Future](http://www.voelter.de/data/pub/projectingModuleFuture.pdf) - [Code and Slides](https://github.com/papers-we-love/seattle/tree/master/projectional-editors)
+
+> "We describe two innovations in programming languages: modularity and
+> projectional editing. Language modularity refers to the ability to combine
+> independently developed languages without changing their respective
+> definitions. A language is not anymore a fixed quantity, instead it can be
+> extended with domain-specific constructs as needed. Projectional editing
+> refers to a technique of building editors and IDEs that avoid the need for
+> parsers. They support a wide range of tightly integrated notations including
+> textual, symbolic, tabular and graphical. In addition, by avoiding parsers,
+> the well-known limitations of grammar composition are avoided as well."
+
+David Graunke presents [Parsing with Derivatives](http://matt.might.net/papers/might2011derivatives.pdf)
+
+> "We present a functional approach to parsing unrestricted context-free
+> grammars based on Brzozowskiâ's derivative of regular expressions. If we
+> consider context-free grammars as recursive regular expressions,
+> Brzozowskiâ's equational theory extends without modification to context-free
+> grammars (and it generalizes to parser combinators). The supporting actors in
+> this story are three concepts familiar to functional programmers' laziness,
+> memoization and fixed points; these allow Brzozowskiâ's original equations to
+> be transliterated into purely functional code in about 30 lines spread over
+> three functions." 
+
+## [2017-05-31 PWL #32: The Styx Architecture for Distributed Systems](https://www.meetup.com/Papers-We-Love-Seattle/events/239551291/)
+[Scott Francis](http://www.kurokoproject.com/about/) ([@mechazoidal](https://twitter.com/mechazoidal)) will be guiding us through two papers on the Styx Architecture. [The Styx Architecture for Distributed Systems](http://doc.cat-v.org/inferno/4th_edition/styx) and [Styx-on-a-Brick](http://doc.cat-v.org/inferno/4th_edition/styx-on-a-brick/) invented by [Rob Pike](https://research.google.com/pubs/r.html) (he invented the [Go language](https://golang.org/)) and [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/index.html) (he co-invented the [C language](https://archive.org/details/TheCProgrammingLanguageFirstEdition)).
+
+The protocol is effectively [9P](https://en.wikipedia.org/wiki/9P_(protocol)) (specifically 9P2000). Pike and Ritchie renamed the protocol after the papers were written to unify with [Plan 9](http://www.plan9.bell-labs.com/plan9/index.html).
+
+Links:
+* [https://pinboard.in/u:mechazoidal/t:plan9/](https://pinboard.in/u:mechazoidal/t:plan9/)
+* [https://pinboard.in/u:mechazoidal/t:inferno/](https://pinboard.in/u:mechazoidal/t:inferno/)
+* [https://pinboard.in/u:mechazoidal/t:9p/](https://pinboard.in/u:mechazoidal/t:9p/)
+* [RCX Code](https://github.com/jschiefer/legostyx)
+
+Here is the abstract to whet your appetite:
+
+> A distributed system is constructed from a set of relatively independent
+> components that form a unified, but geographically and functionally diverse
+> entity. Examples include networked operating systems, Internet services, the
+> national telephone switching system, and in general all the technology using
+> today's diverse digital networks. Nevertheless, distributed systems
+> remain difficult to design, build, and maintain, primarily because of the
+> lack of a clean, perspicuous interconnection model for the components.
+
+> Our experience with two distributed operating systems, Plan 9 and Inferno,
+> encourages us to propose such a model. These systems depend on, advocate, and
+> generally push to the limit a fruitful idea: to present their resources as
+> files in a hierarchical name space. The objects appearing as files may
+> represent stored data, but may also be devices, dynamic information sources,
+> interfaces to services, and control points. The approach unifies and provides
+> basic naming, structuring, and access control mechanisms for all system
+> resources. A simple underlying network protocol, Styx, forms the core of the
+> architecture by presenting a common language for communication within the
+> system.
+
+> Even within non-distributed systems, the presentation of services as files
+> advantageously extends a familiar scheme for naming, classifying, and
+> connecting to system resources. More important, the approach provides a
+> natural way to build distributed systems, by using well-known technology for
+> attaching remote file systems. If resources are represented as files, and
+> there are remote file systems, one has a distributed system: resources
+> available in one place are usable from another.
