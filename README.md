@@ -16,8 +16,9 @@ and/or links to other repositories, like the _main_ Papers We Love repo, [here](
 ### Information
 
 Events are posted to the [Papers We Love Seattle meetup group](http://www.meetup.com/Papers-We-Love-Seattle/).
-They're almost always in Seattle (often at [Whitepages](http://about.whitepages.com/)), and usually on the second
-Thursday of the month.
+They're almost always in Seattle, and usually on the first Thursday of the month. A log of past events can be
+found [here](https://github.com/papers-we-love/seattle/blob/master/events.md) thanks to
+[Andrew](https://github.com/abeyer).
 
 ### Contact
 
