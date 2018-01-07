@@ -828,6 +828,9 @@ David Graunke presents [Parsing with Derivatives](http://matt.might.net/papers/m
 > be transliterated into purely functional code in about 30 lines spread over
 > three functions." 
 
+Links
+* [repo files](parsing-with-derivatives/)
+
 ## [2017-05-31 PWL #32: The Styx Architecture for Distributed Systems](https://www.meetup.com/Papers-We-Love-Seattle/events/239551291/)
 [Scott Francis](http://www.kurokoproject.com/about/) ([@mechazoidal](https://twitter.com/mechazoidal)) will be guiding us through two papers on the Styx Architecture. [The Styx Architecture for Distributed Systems](http://doc.cat-v.org/inferno/4th_edition/styx) and [Styx-on-a-Brick](http://doc.cat-v.org/inferno/4th_edition/styx-on-a-brick/) invented by [Rob Pike](https://research.google.com/pubs/r.html) (he invented the [Go language](https://golang.org/)) and [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/index.html) (he co-invented the [C language](https://archive.org/details/TheCProgrammingLanguageFirstEdition)).
 
@@ -838,6 +841,7 @@ Links:
 * [https://pinboard.in/u:mechazoidal/t:inferno/](https://pinboard.in/u:mechazoidal/t:inferno/)
 * [https://pinboard.in/u:mechazoidal/t:9p/](https://pinboard.in/u:mechazoidal/t:9p/)
 * [RCX Code](https://github.com/jschiefer/legostyx)
+* [repo files](styx-architecture/)
 
 Here is the abstract to whet your appetite:
 
@@ -867,3 +871,147 @@ Here is the abstract to whet your appetite:
 > attaching remote file systems. If resources are represented as files, and
 > there are remote file systems, one has a distributed system: resources
 > available in one place are usable from another.
+
+## [2017-07-06 PWL #33: LIME && Sqlcache](https://www.meetup.com/Papers-We-Love-Seattle/events/240572865/)
+Round One
+
+Brandon Sherman presents [Why Should I Trust You? Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v1.pdf).
+
+> Despite widespread adoption, machine learning models remain mostly black boxes.
+> Understanding the reasons behind predictions is, however, quite important in
+> assessing trust in a model. Trust is fundamental if one plans to take action
+> based on a prediction, or when choosing whether or not to deploy a new model.
+> Such understanding further provides insights into the model, which can be used
+> to turn an untrustworthy model or prediction into a trustworthy one. In this
+> work, we propose LIME, a novel explanation technique that explains the
+> predictions of any classifier in an interpretable and faithful manner, by
+> learning an interpretable model locally around the prediction.
+
+~~Round Two~~
+
+~~Andrew Beyer presents [A Program Optimization for Automatic Database Result Caching](http://adam.chlipala.net/papers/SqlcachePOPL17/SqlcachePOPL17.pdf).~~
+
+> ~~Most popular Web applications rely on persistent databases based on languages~~
+> ~~like SQL for declarative specification of data models and the operations that~~
+> ~~read and modify them. As applications scale up in user base, they often face~~
+> ~~challenges responding quickly enough to the high volume of requests. A common~~
+> ~~aid is caching of database results in the application’s memory space, taking~~
+> ~~advantage of program-specific knowledge of which caching schemes are sound and~~
+> ~~useful, embodied in handwritten modifications that make the program less~~
+> ~~maintainable. These modifications also require nontrivial reasoning about the~~
+> ~~read-write dependencies across operations. In this paper, we present a compiler~~
+> ~~optimization that automatically adds sound SQL caching to Web applications~~
+> ~~coded in the Ur/Web domain-specific functional language, with no modifications~~
+> ~~required to source code.~~
+
+## [2017-08-02 PWL #34: Feral Concurrency Control](https://www.meetup.com/Papers-We-Love-Seattle/events/240921517/)
+We will be talking about Peter Bailis' 2015 paper ["Feral Concurrency Control"](http://www.bailis.org/papers/feral-sigmod2015.pdf).
+
+> The rise of data-intensive “Web 2.0” Internet services has led to a range of
+> popular new programming frameworks that collectively embody the latest
+> incarnation of the vision of Object-Relational Mapping (ORM) systems, albeit at
+> unprecedented scale. In this work, we empirically investigate modern ORM-backed
+> applications’ use and disuse of database concurrency control mechanisms.
+> Specifically, we focus our study on the common use of feral, or
+> application-level, mechanisms for maintaining database integrity, which, across
+> a range of ORM systems, often take the form of declarative correctness
+> criteria, or invariants. We quantitatively analyze the use of these mechanisms
+> in a range of open source applications written using the Ruby on Rails ORM and
+> find that feral invariants are the most popular means of ensuring integrity
+> (and, by usage, are over 37 times more popular than transactions). We evaluate
+> which of these feral invariants actually ensure integrity (by usage, up to
+> 86.9%) and which—due to concurrency errors and lack of database support—may
+> lead to data corruption (the remainder), which we experimentally quantify. In
+> light of these findings, we present recommendations for database system
+> designers for better supporting these modern ORM programming patterns, thus
+> eliminating their adverse effects on application integrity.
+
+Links:
+* [The Morning Paper Discussion](https://blog.acolyer.org/2015/09/04/feral-concurrency-control-an-empirical-investigation-of-modern-application-integrity/)
+* [SIGMOD '15 Presentation](https://speakerdeck.com/pbailis/feral-concurrency-control-an-empirical-investigation-of-modern-application-integrity)
+* [Caitie McCaffrey's Distributed Sagas Talk](https://www.youtube.com/watch?v=0UTOLRTwOX0). This is what inspired us to discuss the paper
+
+
+## [2017-09-07 PWL #35: Orleans](https://www.meetup.com/Papers-We-Love-Seattle/events/240921627/)
+[Victor Hurdugaci](https://twitter.com/victorhurdugaci) presents ["Orleans: Distributed Virtual Actors for Programmability and Scalability"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Orleans-MSR-TR-2014-41.pdf)
+
+> High-scale interactive services demand high throughput with low latency and
+> high availability, difficult goals to meet with the traditional stateless
+> 3-tier architecture. The actor model makes it natural to build a stateful
+> middle tier and achieve the required performance. However, the popular actor
+> model platforms still pass many distributed systems problems to the developers.
+
+## [2017-10-05 PWL #36: Deep Speech](https://www.meetup.com/Papers-We-Love-Seattle/events/242431931/)
+The Main Event
+
+Morgan Gellert presents [Deep Speech](https://arxiv.org/pdf/1412.5567.pdf) and [Deep Speech 2](https://arxiv.org/pdf/1512.02595.pdf)
+
+> I will be presenting a brief overview of modern speech recognition. We will
+> discuss the challenges that are latent in the problem, how classical methods
+> addressed the problem, and how modern systems are changing this model. Deep
+> Speech (Hannun et al.) and Deep Speech 2 (Amodei et al.) present a remarkably
+> simpler architecture that achieves massive improvements over previous works.
+> Their work exemplifies how deep learning is taking over traditional methods
+> across the board on recognition tasks.
+
+## [2017-11-02 PWL #37: Argus](https://www.meetup.com/Papers-We-Love-Seattle/events/243607249/)
+The Main Event
+
+Caitie McCaffrey presents [Distributed Programming in Argus](https://people.csail.mit.edu/alinush/6.824-spring-2015/papers/argus88.pdf)
+
+> "Argus -- a programming language and system -- was developed to support the
+> implementation and execution of distributed programs. Distribution gives rise
+> to some problems that do not exist in a centralized system, or that exist in a
+> less complex form. For example, a centralized system is either running or
+> crashed, but a distributed system may be partly running and partly crashed. The
+> goal of Argus is to provide mechanisms that make it easier for programmers to
+> cope with these problems."
+
+[Caitie](https://twitter.com/caitie) McCaffrey is a Backend Brat and Distributed
+Systems Diva at Microsoft Research. Prior to that she was the Tech Lead for the
+Observability team at Twitter, and also built large scale services and systems
+that power the entertainment industry at 343 Industries, Microsoft Game
+Studios, and HBO. She has credits on several video games including Gears of War
+2, Gears of War 3, Halo 4, and Halo 5. She also has a B.S. in Computer Science
+from Cornell University.
+
+## [2017-12-07 PWL #38: LittleTable / Robust Composition](https://www.meetup.com/Papers-We-Love-Seattle/events/244676637/)
+PWL Mini:
+
+Ankur Chauhan presents ["LittleTable: A Time-Series Database and Its Uses"](https://dl.acm.org/citation.cfm?id=3056102)
+
+> "We present LittleTable, a relational database that Cisco Meraki has used since
+> 2008 to store usage statistics, event logs, and other time-series data from our
+> customers’ devices. LittleTable optimizes for time-series data by clustering
+> tables in two dimensions. By partitioning rows by timestamp, it allows quick
+> retrieval of recent measurements without imposing any penalty for retaining
+> older history."
+
+The Main Event:
+
+Clive Boulton presents ["Robust Composition: Towards a Unified Approach to Access Control and Concurrency Control"](http://www.erights.org/talks/thesis/markm-thesis.pdf)
+
+> "When separately written programs are composed so that they may cooperate, they
+> may instead destructively interfere in unanticipated ways. These hazards limit
+> the scale and functionality of the software systems we can successfully
+> compose. This dissertation presents a framework for enabling those interactions
+> between components needed for the cooperation we intend, while minimizing the
+> hazards of destructive interference."
+
+## [2018-01-04 PWL #39: Grover's Algorithm](https://www.meetup.com/Papers-We-Love-Seattle/events/245935599/)
+~~PWL Mini: [FLP impossibility result](https://homes.cs.washington.edu/~arvind/cs425/doc/fischer.pdf). Presented by Vaidhy!~~
+
+The main event: Casey presents ["A fast quantum mechanical algorithm for database search."](https://arxiv.org/pdf/quant-ph/9605043.pdf)
+
+> Imagine a phone directory containing N names arranged in completely random
+> order. In order to find someone's phone number with a probability of 1/2, any
+> classical algorithm (whether deterministic or probabilistic) will need to look
+> at a minimum of N/2 names. Quantum mechanical systems can be in a superposition
+> of states and simultaneously examine multiple names. By properly adjusting the
+> phases of various operations, successful computations reinforce each other
+> while others interfere randomly. As a result, the desired phone number can be
+> obtained in only O(sqrt(N)) steps. The algorithm is within a small constant
+> factor of the fastest possible quantum mechanical algorithm.
+
+Links
+* [repo files](grovers-algorithm/)
