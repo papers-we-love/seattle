@@ -828,6 +828,9 @@ David Graunke presents [Parsing with Derivatives](http://matt.might.net/papers/m
 > be transliterated into purely functional code in about 30 lines spread over
 > three functions." 
 
+Links
+* [repo files](parsing-with-derivatives/)
+
 ## [2017-05-31 PWL #32: The Styx Architecture for Distributed Systems](https://www.meetup.com/Papers-We-Love-Seattle/events/239551291/)
 [Scott Francis](http://www.kurokoproject.com/about/) ([@mechazoidal](https://twitter.com/mechazoidal)) will be guiding us through two papers on the Styx Architecture. [The Styx Architecture for Distributed Systems](http://doc.cat-v.org/inferno/4th_edition/styx) and [Styx-on-a-Brick](http://doc.cat-v.org/inferno/4th_edition/styx-on-a-brick/) invented by [Rob Pike](https://research.google.com/pubs/r.html) (he invented the [Go language](https://golang.org/)) and [Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/index.html) (he co-invented the [C language](https://archive.org/details/TheCProgrammingLanguageFirstEdition)).
 
@@ -838,6 +841,7 @@ Links:
 * [https://pinboard.in/u:mechazoidal/t:inferno/](https://pinboard.in/u:mechazoidal/t:inferno/)
 * [https://pinboard.in/u:mechazoidal/t:9p/](https://pinboard.in/u:mechazoidal/t:9p/)
 * [RCX Code](https://github.com/jschiefer/legostyx)
+* [repo files](styx-architecture/)
 
 Here is the abstract to whet your appetite:
 
@@ -1008,3 +1012,6 @@ The main event: Casey presents ["A fast quantum mechanical algorithm for databas
 > while others interfere randomly. As a result, the desired phone number can be
 > obtained in only O(sqrt(N)) steps. The algorithm is within a small constant
 > factor of the fastest possible quantum mechanical algorithm.
+
+Links
+* [repo files](grovers-algorithm/)
