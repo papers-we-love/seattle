@@ -22,4 +22,4 @@ found [here](https://github.com/papers-we-love/seattle/blob/master/events.md) th
 
 ### Contact
 
-- **New Contact Info Coming Soon**
+- Trevor Lalish-Menagh | [GitHub](https://github.com/trevmex) | [Twitter](https://twitter.com/trevmex) | [Email](mailto:trev@trevreport.org)

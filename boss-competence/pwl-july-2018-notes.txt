@@ -1,0 +1,84 @@
+Competent bosses make for happier workers!
+- This makes sense, but does the data bear it out, or are we just assuming?
+
+What data?!?
+- We have three sources:
+  1. National Longitudinal Survey of Youth 1990
+  2. Working in Britain Survey 2000
+  3. NLSY 1979-1988
+
+What is measured?
+- The paper is mainly focused on job satisfaction as it relates to many different factors.
+- Although, they ran the numbers with other measures of well-being, too:
+  - you are given a chance to do your best (t-value: 19.29)
+  - Job security (t-value: 17.66)
+  - Chances for promotion (t-value: 26.82)
+  - Physical surroundings (t-value: 18.17)
+  - Pay is good (t-value: 15.60)
+
+What is boss competence?
+- There is no one definition, so we show it through a couple different measures:
+  - Has the supervisor worked their way up the ranks, or owns the company? (using NLSY 1990 6,000 employees)
+  - Could your supervisor do your job? (WiBS 2000 1,600 employees)
+  - Does the supervisor know their job well? (WiBS 2000 1,600 employees)
+  - Is your supervisor competent in doing their job? (NLSY 1979-82, 88, 27,000 employees)
+
+How'd they generalize?
+- They controlled for "cheery employees by asking if their co-workers were friendly)
+- They picked one sample of employees that stay at the same job, but switched supervisors.
+- They used instrumental-variable estimates of college degree and working your way up.
+
+What did they find?
+- They found that boss competence mattered more for older workers.
+- Competence bosses improve well being regardless of small (<50) or large companies.
+- The same holds true regardless of the gender of the boss or the employee.
+
+Objections?
+Q: What if some folks are too happy when they take the survey?
+A: That cannot account for all the participants, nor would it predict that the IV estimation would work.
+
+Q: The data is not randomly assigned.
+A: True, more work is done, but the results hold for the longitudinal study and they chose strong instruments (?)
+
+Q: The data doesn't support the conceptual framework in the appendix.
+A: Maybe, but the framework, we think stands on it's own, and the data fits it.
+
+Q: The IV estimate instruments could not be the best.
+A: We believe that working your way up is a good indicator.
+
+Q: Isn't this all subjective?
+A: Nah, employees for the most part answer truthfully, and the factual questions, like "Did your supervisor work their way up?" are completely objective.
+
+More work in this field is needed. Amanda Goodall, and Agnes Baker have two new papers coming out soon that confirm this theory in universities and hospitals.
+
+Apendix: The framework.
+
+Assume that a firm gets output when a worker AND a supervisor take action together. The worker's action is a, the supervisor's action is s, so the output for the firm Q can be the production function:
+
+    Q = q(a, s)
+
+Assume that the worker gets psi amount of the output in the form of pay. Then the worker's utility can be stated as:
+
+    mu = mu(a, s, psiQ) - c(a)
+
+where c is the cost function of the action a.
+
+If the supervisor's amount of the output in the form of pay is called sigma, the supervisor's utility can be:
+
+    va = va(a, s, sigmaQ) - k(s)
+
+where k is the cost function of the action s.
+
+to simplify notation:
+
+    mu(a, s, psiQ) = u(a, s)
+    va(a, s, sigmaQ) = v(a, s)
+
+So the two parties' net utility are:
+
+    u(a, s) - c(a)
+    v(a, s) - k(s)
+
+OK.
+
+
