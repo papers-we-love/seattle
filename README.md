@@ -22,6 +22,4 @@ found [here](https://github.com/papers-we-love/seattle/blob/master/events.md) th
 
 ### Contact
 
-- David Murray | [GitHub](https://github.com/fernomac) | [Twitter](https://twitter.com/fernomac) | [Email](mailto:fernomac@coronet.io)
 - Trevor Lalish-Menagh | [GitHub](https://github.com/trevmex) | [Twitter](https://twitter.com/trevmex) | [Email](mailto:trev@trevreport.org)
-
