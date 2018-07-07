@@ -22,4 +22,4 @@ found [here](https://github.com/papers-we-love/seattle/blob/master/events.md) th
 
 ### Contact
 
-- David Murray | [GitHub](https://github.com/fernomac) | [Twitter](https://twitter.com/fernomac) | [Email](mailto:fernomac@coronet.io)
+- **New Contact Info Coming Soon**
