@@ -23,3 +23,4 @@ found [here](https://github.com/papers-we-love/seattle/blob/master/events.md) th
 ### Contact
 
 - Trevor Lalish-Menagh | [GitHub](https://github.com/trevmex) | [Twitter](https://twitter.com/trevmex) | [Email](mailto:trev@trevreport.org)
+ - Max Payton | [Github](https://github.com/argentfalcon) | [Email](mailto:maxspayton@gmail.com)
