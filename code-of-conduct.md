@@ -14,6 +14,7 @@ Need help?
 If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/seattle), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, [PapersWeLove.org](http://paperswelove.org), or a Seattle-area meet-up/event, please contact:
 
 - **Trevor Lalish-Menagh** [trev@trevreport.org](mailto:trev@trevreport.org)
+- **Max Payton** [maxspayton@gmail.com](mailto:maxspayton@gmail.com)
 
 Please try your local organizers first, but if the local organizers are unable to help you can contact a top-level PWL organizer:
 
