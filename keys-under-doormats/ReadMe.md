@@ -94,5 +94,6 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.4705&rep=rep1&type=p
 |                      |                                           |                               | David Sobel                                            | 
 
 
-* The greatly benefited from the comments of
-Yochai Benkler, Whitfield Diffie, Michael Froomkin, Marc Rotenberg, and Roland Trope.
+\* Susan Landau credited these contributors as "this article has
+greatly benefited from the comments of Yochai Benkler, Whitfield
+Diffie, Michael Froomkin, Marc Rotenberg, and Roland Trope."
