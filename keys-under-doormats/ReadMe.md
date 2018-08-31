@@ -1,34 +1,34 @@
 # _Keys Under Doormats_ Background
 
-The paper that caught my attention is is _Keys Under Doormats_ a paper 
-published in November of 2015 that was co-authored by Susan Landau, 
+The paper that caught my attention is _Keys Under Doormats_, a paper 
+published in November of 2015, that was co-authored by Susan Landau, 
 Peter G. Neumann, Whitfield Diffie, et. al. 
 
-This paper is the most recent of a series of scholarly papers which
-discusses the risks to the general public that are created when the
+This paper is the most recent in a series of scholarly papers which
+discusses risks to the general public that are created when the
 U.S. Government requests or issues mandates for technology changes
 to provide "greater security". 
 
-These papers published going back to at least 1994 discuss the trade
-offs between the desired result, the privacy of individuals and
-the overall reliability of the targeted technology (such as
-cell phones, internet traffic, etc.) I found the cycle of mandates
-and responses to be quite complex and compelling. There are many
-actions and consequences that are non-obvious at first glance and
-these papers do a good job of explaining these relationships.
+These papers, going back to at least 1994, discuss the trade-offs
+between the desired result, the privacy of individuals and the overall
+reliability of the targeted technology (cell phones, internet traffic,
+etc.). I find the cycle of mandates and responses to be quite complex
+and compelling. There are many actions and consequences that are not
+obvious at first glance; these papers explain the interrelationships
+of the mandates and their (sometimes unforeseen) consequences.
 
-Other papers that enter into this dicussion are:
+Other papers that enter into this discussion are:
  * _National Security on the Line_, May 2006
  * _The Real National-Security Needs for VoIP_, November 2005
  * _Codes, Keys and Conflicts: Issues in U.S. Crypto Policy_, June 1994
  
-Each of these papers discusses the U.S. Government policy and policy
-discussion about the usage of encryption to ensure security and
+Each of these papers outlines the U.S. Government policy and policy
+discussions regarding usage of encryption to ensure security and
 privacy in communications for both individuals and organizations.
 
 # The Papers
 
-The paper being discussed, _Keys Under Doormats_, in the this
+The paper being discussed, _Keys Under Doormats_, can be found in the this
 repository as [2015_paper-keys-under-doormats-CSAIL.pdf](2015_paper-keys-under-doormats-CSAIL.pdf).
 
 You can also find _National Security on the Line_ in 
@@ -38,7 +38,7 @@ _The Real National-Security Needs for VoIP_ in
 _Codes, Keys and Conflicts: Issues in U.S. Crypto Policy_ in
 [1994_usacm_report_crypto.pdf](1994_usacm_report_crypto.pdf).
 
-They full citation for these papers and public urls are
+The full citation for these papers and public urls are: 
 
 Abelson, Harold, et al. "Keys under doormats: mandating insecurity by
 requiring government access to all data and communications." Journal
@@ -51,13 +51,13 @@ S. Landau, National Security on the Line, Journal of
 Telecommunications and High Technology Law, Vol. 4, Issue 2 (2006),
 pp. 409-447. PDF at https://privacyink.org/pdf/NSotL.pdf
 
-Landau, Susan. Codes, keys, and conflicts: issues in US crypto policy:
+Landau, Susan. Codes, Keys, And Conflicts: Issues in U.S. Crypto Policy:
 report of a special panel of the ACM US Public Policy Committee
 (USACM) June 1994. ACM, 1994. PDF at
 https://www.acm.org/binaries/content/assets/public-policy/1994_usacm_report_crypto.pdf
 
-Bellovin, Steven M., Matt Blaze, and Susan Landau. "The real
-national-security needs for VoIP." Communications of the ACM 48.11
+Bellovin, Steven M., Matt Blaze, and Susan Landau. "The Real
+National-Security Needs for VoIP." Communications of the ACM 48.11
 (2005): 120. PDF at
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.4705&rep=rep1&type=pdf
 
@@ -94,6 +94,6 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.4705&rep=rep1&type=p
 |                      |                                           |                               | David Sobel                                            | 
 
 
-\* Susan Landau credited these contributors as "this article has
+\* Susan Landau credited these contributors: "This article has
 greatly benefited from the comments of Yochai Benkler, Whitfield
 Diffie, Michael Froomkin, Marc Rotenberg, and Roland Trope."
