@@ -1,0 +1,269 @@
+#EXTM3U
+mf://output/slides-1.png
+mf://output/slides-2.png
+# visionary position
+#mf://lcm_visionary_book.jpg
+mf://output/slides-3.png
+# http://scihi.org/ivan-sutherland-computer-graphics/
+mf://output/slides-4.png
+mf://output/slides-5.png
+mf://output/slides-6.png
+# Sketchpad (1963) 3 of 3 - 3D Graphics
+# showing flowchart
+https://www.youtube.com/watch?v=t3ZsiBMnGSg&t=5m09s
+mf://output/slides-7.png
+# Sketchpad (1963) 3 of 3 - 3D Graphics
+# Basic 4-type view
+https://www.youtube.com/watch?v=t3ZsiBMnGSg
+# https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline
+file://NURBS_3-D_surface.gif
+# https://en.wikipedia.org/wiki/B%C3%A9zier_curve
+file://bezier_4.gif
+
+mf://output/slides-8.png
+# BEFLIX
+# Programming Computer Animation in 1964 - AT&T Archives
+https://www.youtube.com/watch?v=-5mFhDIJfNA
+
+# 1981 Atari Tempest Arcade Video Gameplay HD
+https://www.youtube.com/watch?v=AMto2HJJSSA&t=0m44s
+
+mf://output/slides-9.png
+mf://output/slides-10.png
+# stuff about framebuffers, raster display
+# mf://Computer_History_Museum_-_SuperPaint.jpg
+# https://en.wikipedia.org/wiki/SuperPaint
+# Early Digital Paint Systems Demonstration–Narration by Alvy Ray Smith
+https://www.youtube.com/watch?v=nHkxem785B4
+
+# mf://1200px-Sun_sbus_cgsix_framebuffer.jpg
+# 8-Bit Color Framebuffer, 1 MB Memory
+# mf://5012922.jpg
+mf://output/slides-11.png
+# https://en.wikipedia.org/wiki/Framebuffer
+
+# 747 Flight simulator external
+#mf://IMG_1751.jpg
+mf://output/slides-12.png
+
+
+# keyboards
+mf://output/slides-13.png
+# https://en.wikipedia.org/wiki/Pointing_stick
+# mf://trackpoint.jpg
+mf://output/slides-14.png
+# Light pen with Hypertext: scribbling!
+# https://en.wikipedia.org/wiki/Hypertext_Editing_System
+#mf://1200px-HypertextEditingSystemConsoleBrownUniv1969.jpg
+# https://en.wikipedia.org/wiki/Touchpad
+# mf://Logitech-Rechargeable-Trackpad-for-Mac-in-use.jpg
+mf://output/slides-15.png
+
+#mf://joystick-starwars.jpg
+# upright SW game in arcade in use
+#mf://6126986024_6b6f368b6e_b.jpg
+# spaceorb
+# https://en.wikipedia.org/wiki/SpaceOrb_360
+#mf://o-spaceorb-360-permitia-seus-graus-de-movimentacao-em-espacos-3d-de-jogos-para-pc-mas-nao-conseguiu-mostrar-para-que-isso-servia-na-pratica-1401475090572_956x500.jpg
+# wiimote
+# https://en.wikipedia.org/wiki/Wii_Remote
+#mf://s-l1000.jpg
+# Voice, gestural, contextural interfaces
+# Put That There (1980)
+https://www.youtube.com/watch?v=sC5Zg0fU2e8
+
+mf://output/slides-16.png
+# which part pointing to
+#mf://lightpen-in-action.jpg
+# expensive circuitry:
+# yu suzuki
+# Silicon Graphics?
+
+mf://output/slides-17.png
+# Sega Model 2
+# http://www.system16.com/hardware.php?id=713
+#mf://model2_cpu.jpg
+#mf://model2_video.jpg
+#http://www.system16.com/hardware.php?id=713&page=1#2028
+#mf://daytona_m2.jpg
+# Namco System22
+# http://www.system16.com/hardware.php?id=537
+mf://output/slides-18.png
+#mf://s22cpu.jpg
+#mf://s22video.jpg
+# http://www.system16.com/hardware.php?id=537&page=1#1322
+mf://ridgeracer2.png
+
+
+mf://output/slides-19.png
+mf://output/slides-20.png
+# where in memory
+# Tek 4014
+# https://en.wikipedia.org/wiki/Storage_tube
+# https://en.wikipedia.org/wiki/Tektronix_4010
+#mf://0250.jpg
+#mf://r21988m.jpg
+mf://output/slides-21.png
+
+mf://output/slides-22.png
+# audio, smell, taste, display
+
+mf://output/slides-23.png
+# Audio
+#file://spiegel_alles_synth_edit_1977.mp4
+# Laurie Spiegel plays Alles synth - temporary replacement (1977)
+https://www.youtube.com/watch?v=NChqEEz31eE
+
+mf://output/slides-24.png
+# convolvotron board
+# http://www-cdr.stanford.edu/DesignSpace/sponsors/Convolvotron.html
+mf://ctron.gif
+# ensoniq PCI board
+#https://en.wikipedia.org/wiki/Ensoniq_AudioPCI#ES1370
+mf://6bfaaaed61_md.jpeg
+
+mf://output/slides-25.png
+
+mf://wavenet.gif
+# https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+mf://output/slides-26.png
+# original deepmind wavenet piano sample
+file://sample_1.wav
+# http://deepsound.io/wavenet_first_try.html
+# university piano sample
+file://piano.mp3
+# university guitar sample
+file://guitar.mp3
+
+mf://output/slides-27.png
+
+mf://output/slides-28.png
+# patent screenshot
+# https://patents.google.com/patent/US5872438A/en
+mf://kinesthetic_patent.png
+# drawing
+mf://US5872438-drawing-3.png
+# lawnmower man kinesthetic
+mf://Lawnmower.png
+# Lawnmower Man Truncated (only cgi)
+https://www.youtube.com/watch?v=I33u7P-XokE
+# Lawnmower Man VR accelerated learning
+https://www.youtube.com/watch?v=zTrgHXNAs24
+
+
+# force feedback
+mf://output/slides-29.png
+# Link Trainer w/instructor table
+# https://en.wikipedia.org/wiki/Link_Trainer
+#mf://Link-Trainer-1930s-to-50s-1024x791.jpg
+
+# Dualshock
+# https://en.wikipedia.org/wiki/DualShock
+#mf://controller2.jpg
+
+mf://output/slides-30.png
+# http://cyberneticzoo.com/man-amplifiers/1958-9-ge-handyman-ralph-mosher-american/
+# spooky shot of using arms
+#mf://MosherHandymanp2-x640.jpg
+# rough frame showing juggling hula-hoop
+#mf://Mosher-ge-handyman-Hula-x640.jpg
+# lineart schematic
+#mf://Handyman-mosher-px2-x640.jpg
+# full hardiman use
+# http://cyberneticzoo.com/man-amplifiers/1966-69-g-e-hardiman-i-ralph-mosher-american/
+#mf://Hardiman-correct-view_0004-x640.jpg
+# sarcos
+#mf://MTg5NjI3MA.jpg
+https://www.youtube.com/watch?v=Ymlnk_PDwnc&t=0m26s
+
+
+mf://output/slides-31.png
+mf://output/slides-33.png
+# sense positions, display depending on where we look
+# wall of HMDs
+#mf://lcm_hmd_display.jpg
+mf://output/slides-34.png
+# First Head mounted display 1965 The Sword of Damocles 
+https://www.youtube.com/watch?v=0iyNrV7w4f4
+# (probably taken from: Virtual Reality Before it Had That Name : https://www.youtube.com/watch?v=Y2AIDHjylMI
+# only the sword display
+#mf://102680042.03.01.lg.jpg
+# full sword with overhead
+#mf://sword-of-damocles.jpg
+# USAF Furness helmet: Visually-Coupled Airborne Systems Simulator (1981)
+# ??
+#mf://darth-vader-virtual-reality-helmet-military-vr.jpg
+# Original HMD patent (Binocular Stereovision)
+# https://patents.google.com/patent/US4982278A/en
+mf://US4982278-drawings-page-2.png
+mf://output/slides-35.png
+# NASA Ames LEEP HMD and Dataglove
+#mf://1990_a_new_continent.jpg
+mf://output/slides-36.png
+# It's so bad!
+#mf://Power-glove.jpg
+https://www.youtube.com/watch?v=AacoxHFYvZw&t=0m46s
+# NES shutter glasses
+#mf://lcm_nintendo_glasses.jpg
+# sony's proposed PS3 VR controller
+#mf://vr-virtual-reality-controller-for-ps3.jpg
+mf://output/slides-37.png
+# Virtuality historian
+mf://j7ccgmsnrfdmk1u6yg56.png
+# https://en.wikipedia.org/wiki/Virtuality_%28gaming%29
+# https://www.kotaku.com.au/2016/05/the-man-who-is-keeping-1990s-virtual-reality-machines-alive/
+# hideo in mocap suit
+#mf://18vnfpmslayhgjpg.jpg
+# https://duckduckgo.com/?q=mocap+suit&t=ffab&iax=images&ia=images
+mf://output/slides-38.png
+# macross zero eyetracker
+#file://m0_eyetracker.mp4
+https://www.youtube.com/watch?v=iXNa88lRh4E&t=0m38s
+
+mf://output/slides-39.png
+# imagine a triangle, mechanisms of vision
+# subsurf
+#mf://Subdivision-Surfaces.jpg
+mf://output/slides-40.png
+mf://output/slides-41.png
+#mf://snowworld1.jpg
+#mf://snowworld2.jpg
+#Soldiers Get Virtual Reality Therapy for Burn Pain
+https://www.youtube.com/watch?v=jNIqyyypojg
+
+mf://output/slides-42.png
+#https://patents.google.com/patent/US6008781A/
+vrd_patent.png
+
+# no need for physics
+mf://output/slides-43.png
+# no need for physical reality
+# note that before this starts they're freaking out about hidden-line removal
+#file://sketchpad_hiddenlines.mp4
+https://www.youtube.com/watch?v=t3ZsiBMnGSg&t=5m09s
+
+# concepts never seen visually
+#mf://20141111_interstellar_black_hole.jpg
+
+# mario physics
+#mf://new_super_mario_bros_ds.jpg
+# skate videos
+# Helix Snake's Top 50 Skate 3 videos #2 (2014)
+https://www.youtube.com/watch?v=ofnxaJUIFYg
+#file://skate_5.mp4
+#file://skate_6a.mp4
+#file://skate_1a.mp4
+#file://skate_3.mp4
+#file://skate_4a.mp4
+#file://skate_1_1a.mp4
+
+
+# "Holographic bullets can kill if the safeties are off!"
+mf://output/slides-44.png
+mf://output/slides-45.png
+mf://output/slides-46.png
+mf://output/slides-47.png
+#Captain Picard tommy gunning Borg (2010)
+https://www.youtube.com/watch?v=7OCKDEdtWys
+#file://picard_edit.mp4
+mf://output/slides-48.png
