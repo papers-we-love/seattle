@@ -93,6 +93,11 @@ As it's not viable to upload all of the media to Github, here are the overall li
 ### The Ultimate Display
 - [Captain Picard tommy gunning Borg](https://www.youtube.com/watch?v=7OCKDEdtWys)
 
+### Bonus(?)
+- Fred Moody's books on Seattle and VR history. Take these with a big grain of salt as he is on-par with Knute Berger as being a Cranky Old Guy From Seattle:
+  - [The Visionary Position](https://www.goodreads.com/book/show/840723.The_Visionary_Position)
+  - [Seattle and the Demons of Ambition](https://www.goodreads.com/book/show/517483.Seattle_and_the_Demons_of_Ambition)
+
 ## Presentation format
 
 If you'd like to generate a limited form of the presentation, you can use the provided [generation script](https://github.com/papers-we-love/seattle/blob/master/ultimate_display/generate_slides.sh). This requires [racket and its slideshow module](https://docs.racket-lang.org/slideshow/index.html), [Ghostscript](https://www.ghostscript.com/), and [ImageMagick](https://www.imagemagick.org/)
